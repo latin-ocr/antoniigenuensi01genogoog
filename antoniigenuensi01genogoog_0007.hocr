@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antoniigenuensi01genogoog_0007.png"; bbox 0 0 2416 4096; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 171 1609 725 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 171 1609 725 1842">
+     <span class='ocr_line' id='line_1_1' title="bbox 179 1609 725 1731; baseline 0.009 -30"><span class='ocrx_word' id='word_1_1' title='bbox 179 1609 295 1722; x_wconf 66' lang='lat' dir='ltr'><em>Quid</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 323 1611 423 1730; x_wconf 82' lang='lat' dir='ltr'><em>leges</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 440 1611 528 1731; x_wconf 79' lang='lat' dir='ltr'><em>sme</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 554 1618 725 1708; x_wconf 76' lang='lat' dir='ltr'><em>moribus</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 171 1719 525 1842; baseline -0.011 -21"><span class='ocrx_word' id='word_1_5' title='bbox 171 1725 294 1823; x_wconf 79' lang='lat' dir='ltr'><em>&#39;Vanae</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 319 1719 525 1842; x_wconf 76' lang='lat' dir='ltr'><em>proficiunt</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 471 1942 1011 2071">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 471 1942 1011 2071">
+     <span class='ocr_line' id='line_1_3' title="bbox 471 1942 1011 2071; baseline 0.002 -28"><span class='ocrx_word' id='word_1_7' title='bbox 471 1955 629 2045; x_wconf 86' lang='lat' dir='ltr'><strong>Horat.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 657 1942 736 2042; x_wconf 68' lang='lat' dir='ltr'><em>lib.⁴</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 766 1988 802 2069; x_wconf 84' lang='lat'><em>3.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 830 1954 915 2048; x_wconf 88' lang='lat' dir='ltr'><em>ode</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 945 1989 1011 2071; x_wconf 89' lang='lat'><em>27.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1212 4096">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1212 4096">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1212 4096; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1212 4096; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
